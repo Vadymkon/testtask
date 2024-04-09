@@ -2,10 +2,12 @@ import 'package:flutter/material.dart';
 
 import 'main_screen.dart';
 
+//running our app
 void main() {
   runApp(const MyApp());
 }
 
+//class for application. Uses standart MaterialApp
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
